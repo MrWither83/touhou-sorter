@@ -23,14 +23,16 @@ button {
 
 .sorterColumn {
     border: 2px solid black;
+    margin: 5px;
     height: 100%;
-    width: 30%;
+    width: 100%;
 }
 
 .sorterBox {
+    border: 2px solid black;
+    padding: 10px;
     display: flex;
-    width: 50vw;
-    height: 30vh;
+    width: 40vw;
 }
 
 .container {
