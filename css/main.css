@@ -24,7 +24,7 @@ button {
 .sorterColumn {
     border: 2px solid black;
     margin: 5px;
-    height: 100%;
+    min-height: 100%;
     width: 100%;
 }
 
